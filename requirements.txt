@@ -2,4 +2,6 @@ smartapi-python
 pyotp
 requests
 feedparser
+
 pandas
+logzero
