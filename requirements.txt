@@ -2,6 +2,7 @@ smartapi-python
 pyotp
 requests
 feedparser
-
+websocket-client
 pandas
 logzero
+
